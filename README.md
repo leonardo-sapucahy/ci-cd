@@ -1,2 +1,2 @@
-# ci-cd
-ci/cd for mba class
+# DevOps Infinity Loop - Hands On
+Aplicação Simples em Python/Flask para exemplificar o Laboratório.
